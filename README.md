@@ -1,6 +1,10 @@
 # Mosquito Outlaws - Legal
 
-## 🇺🇸 Legal Notice (Summary)
+## 🇺🇸 Legal Notice
+- [Privacy Policy](privacy-policy.md)
+- [Terms of Use](terms-of-use.md)
+
+Summary:
 - The app does not collect or store personal data.
 - Leaderboards and achievements are handled via Apple Game Center, under Apple’s policies.
 - The game offers an optional in-app purchase to remove ads.
@@ -10,6 +14,10 @@
 - The game is provided “as is”, without warranties.
   
 ## 🇪🇸 Aviso Legal (Resumen)
+- [Política de Privacidad](politica-privacidad.md)
+- [Términos de uso](terminos-de-uso.md)
+
+Resumen:
 - La aplicación no recopila ni almacena datos personales.
 - Los rankings y logros se gestionan mediante Apple Game Center, bajo las políticas de Apple.
 - El juego ofrece una compra opcional dentro de la app para eliminar los anuncios.

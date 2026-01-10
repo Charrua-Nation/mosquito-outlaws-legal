@@ -1,4 +1,4 @@
-<img width="424" height="936" alt="image" src="https://github.com/user-attachments/assets/3cf347ee-dd6f-4134-b5bc-833c38025a49" />
+<img width="124" height="636" alt="image" src="https://github.com/user-attachments/assets/3cf347ee-dd6f-4134-b5bc-833c38025a49" />
 
 ## 🇺🇸 Legal Notice
 - [Privacy Policy](privacy-policy.md)

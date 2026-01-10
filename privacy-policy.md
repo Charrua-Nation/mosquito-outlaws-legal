@@ -22,6 +22,11 @@ Mosquito Outlaws uses Apple Game Center to provide leaderboards and achievements
 Game Center data (such as player name, score, or achievements) is handled entirely by Apple and subject to Apple’s Privacy Policy.
 We do not access or store this information outside of Game Center.
 
+## In-App Purchases
+
+In-app purchases are processed exclusively through Apple In-App Purchases.
+We do not process or store payment information.
+
 ## Advertising
 
 The app may display ads provided by third-party ad networks.

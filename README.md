@@ -25,3 +25,5 @@ Resumen:
 - El contenido del juego (gráficos, sonidos, animaciones y código) es propiedad del desarrollador o se utiliza bajo licencia.
 - No está permitido copiar, modificar o redistribuir el contenido sin autorización.
 - El juego se proporciona “tal cual”, sin garantías.
+
+## [Support / Soporte](support.md)
